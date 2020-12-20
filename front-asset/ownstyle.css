@@ -1,0 +1,19 @@
+.single-footer-widget .title {
+   
+    padding-bottom: 15px;
+}
+.single-footer-widget .social-links li {
+    margin-bottom: 10px;
+}
+@media only screen and (max-width: 767px) {
+    .header-top-right-style2 .login-register-box {
+        max-width: 230px;
+    }
+    .header-top-right-style2 .login-register-box {
+         max-width: 316px;
+    }
+    .header-top-right-style2 .login-register-box ul li:last-child {
+        padding-right: 0;
+        margin-left: 20px;
+    }
+}
